@@ -1,1 +1,1 @@
-# Giphy-app-using-Webpack
+Full Giphy app using webpack only
