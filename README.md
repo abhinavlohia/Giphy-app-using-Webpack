@@ -1,1 +1,1 @@
-Full Giphy app using webpack only
+Used Only Webpack to run Giphy React App
